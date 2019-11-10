@@ -5,7 +5,7 @@ const swInstallEvent = 'install';
 const swInstalledEvent = 'installed';
 const swActivateEvent = 'activate';
 const staticCachePrefix = 'blazor-cache-v';
-const staticCacheName = 'blazor-cache-v1';
+const staticCacheName = 'blazor-cache-v220';
 const requiredFiles = [
 "/_framework/blazor.boot.json",
 "/_framework/blazor.server.js",
@@ -101,14 +101,15 @@ const requiredFiles = [
 "/css/open-iconic/ICON-LICENSE",
 "/css/open-iconic/README.md",
 "/css/site.css",
+"/default-icon-192x192.png",
+"/default-icon-512x512.png",
 "/images/bg.jpg",
-"/images/icon-192.png",
-"/images/icon-512.png",
 "/images/overlay.png",
 "/images/pic01.jpg",
 "/images/pic02.jpg",
 "/images/pic03.jpg",
 "/index.html",
+"/ScrollInterop.js",
 "/_redirects",
 "/ServiceWorkerRegister.js",
 "/manifest.json"

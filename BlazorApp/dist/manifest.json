@@ -1,16 +1,16 @@
 {
   "short_name": "Blazor App",
-  "name": "Blazor App SPA",
+  "name": "Blazor App PWA",
   "start_url": "/",
   "display": "standalone",
   "icons": [
     {
-      "src":"/images/icon-192.png",
+      "src":"/default-icon-192x192.png",
       "type":"image/png",
       "sizes":"192x192"
     },
     {
-      "src":"/images/icon-512.png",
+      "src":"/default-icon-512x512.png",
       "type":"image/png",
       "sizes":"512x512"
     }
