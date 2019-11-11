@@ -11,3 +11,10 @@ function pegarElemento(id, text)
 {
     document.getElementById(id).innerText = text;
 }
+
+
+function focusCanpo (element)
+{
+    element.focus();
+
+}
