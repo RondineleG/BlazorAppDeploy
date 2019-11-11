@@ -45,11 +45,14 @@ const requiredFiles = [
 "/assets/css/fontawesome-all.min.css",
 "/assets/css/main.css",
 "/assets/css/noscript.css",
+<<<<<<< HEAD
 "/assets/images/bg.jpg",
 "/assets/images/overlay.png",
 "/assets/images/pic01.jpg",
 "/assets/images/pic02.jpg",
 "/assets/images/pic03.jpg",
+=======
+>>>>>>> ccd67b0f46e62a1b06bc2bf3ba97eca9a99d1658
 "/assets/js/breakpoints.min.js",
 "/assets/js/browser.min.js",
 "/assets/js/jquery.min.js",
@@ -108,8 +111,17 @@ const requiredFiles = [
 "/css/site.css",
 "/default-icon-192x192.png",
 "/default-icon-512x512.png",
+<<<<<<< HEAD
 "/index.html",
 "/js/Interop.js",
+=======
+"/images/bg.jpg",
+"/images/overlay.png",
+"/images/pic01.jpg",
+"/images/pic02.jpg",
+"/images/pic03.jpg",
+"/index.html",
+>>>>>>> ccd67b0f46e62a1b06bc2bf3ba97eca9a99d1658
 "/ScrollInterop.js",
 "/_redirects",
 "/ServiceWorkerRegister.js",
